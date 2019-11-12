@@ -1,0 +1,1 @@
+# xaml-hot-reload-workaround
